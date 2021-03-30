@@ -1,0 +1,25 @@
+.list{
+    /* color:white; */
+    width:300px;
+    background-color:white;
+    height: 50px;
+    margin:20px auto;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.list p{
+     padding: 10px;
+     position: relative;
+} 
+
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.favicons{
+    margin: 0 5px;
+    font-size: 15px;
+}
